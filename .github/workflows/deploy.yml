@@ -1,5 +1,4 @@
-name: CI/CD - Deploiement Cloud
-
+name: CI/CD - Deploiement
 on:
   push:
     branches:
